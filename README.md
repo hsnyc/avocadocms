@@ -18,6 +18,6 @@ NOTE: It includes the DEMO vervion of CKFinder which you can freely use during d
 * You can also modify the users in the database since I have not yet built a function for this. 
 * Thats it! Let me know if you encounter any trouble getting started.
 
-If are interested in contributing please reach out, I will be delighted. 
+If you are interested in contributing please reach out, I will be delighted. 
 
-Thanks for checking out this project.
+Thank you for checking out this project.
