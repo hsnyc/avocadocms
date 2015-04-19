@@ -7,7 +7,7 @@ It is far from complete. I work on it as time allows.
 
 Please feel free to use it for your own projects, improve it, share it, or whatever use may be of help to you.
 
-NOTE: The files include sample content including a DEMO vervion of CKFinder which you can freely use during developemnt. If you use CKFinder in production you will need to get a license unless you use another solution for file browsing.
+NOTE: The files include sample content including a DEMO vervion of CKFinder which you can freely use during development. If you use CKFinder in production you will need to get a license unless you use another solution for file browsing.
 
 ##To get started:
 * download the .zip with all the necessary files.
