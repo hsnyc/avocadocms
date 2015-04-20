@@ -1,0 +1,9 @@
+Import the full database first --> avocado.sql
+
+Then import the latest .sql backup file under backup folder.
+
+
+NOTE: Clean up backup folder every now and then or you can create script to do this for you :)
+
+
+hsnyc.co - 9/17/14
